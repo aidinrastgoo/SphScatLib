@@ -1,0 +1,4 @@
+name = "SphScatLib"
+uuid = "49840290-37fc-4379-9c14-7051420f5402"
+authors = ["Aidin Rastgoo <aidinrastgoo@gmail.com>"]
+version = "0.1.0"
